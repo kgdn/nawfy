@@ -1,0 +1,9 @@
+.env
+instance/
+node_modules/
+__pycache__/
+
+.venv/
+.vscode/
+cookies.txt
+logs/
