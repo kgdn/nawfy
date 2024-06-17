@@ -45,6 +45,6 @@ simplejson==3.19.2
 soupsieve==2.5
 SQLAlchemy==2.0.29
 typing_extensions==4.10.0
-urllib3==2.2.1
+urllib3==2.2.2
 Werkzeug==3.0.3
 wrapt==1.16.0
