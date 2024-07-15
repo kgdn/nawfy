@@ -40,7 +40,7 @@ python-dotenv==1.0.1
 redis==5.0.3
 requests==2.32.2
 rich==13.7.1
-setuptools==69.5.1
+setuptools==70.0.0
 simplejson==3.19.2
 soupsieve==2.5
 SQLAlchemy==2.0.29
